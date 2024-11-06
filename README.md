@@ -6,7 +6,7 @@
 
  K-Means Clustering is an Unsupervised Machine Learning algorithm, which groups the unlabeled dataset into different clusters. 
 
-To know more about K means clustrering you may refer to this aarticle :
+To know more about K means clustrering you may refer to this article :
 
   https://www.geeksforgeeks.org/k-means-clustering-introduction/
 
